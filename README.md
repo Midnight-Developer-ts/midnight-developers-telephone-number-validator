@@ -67,7 +67,7 @@ midnight-developers-telephone-number-validator/ | `root folder`
 
 │   └── styles.css | `styling`
 
-│── images/ | `images folder`
+│── img/ | `images folder`
 
 │   └── website-favicon.png | `favicon`
 
