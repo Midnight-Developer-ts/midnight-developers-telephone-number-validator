@@ -90,7 +90,7 @@ This project fully meets all FreeCodeCamp JavaScript Algorithms and Data Structu
 Telephone Number Validator user stories and requirements.
 
 ## 📸 Preview
-![Midnight Developer's Telephone Number Validator Screenshot](./images/website-preview.png)
+![Midnight Developer's Telephone Number Validator Screenshot](./img/website-preview.png)
 
 [`View Live Project`](https://midnight-developer-ts.github.io/midnight-developers-telephone-number-validator/)
 
