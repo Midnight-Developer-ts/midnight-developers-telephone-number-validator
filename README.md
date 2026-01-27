@@ -1,4 +1,4 @@
-# 📱 Vynxcode's Telephone Validator
+# 📱 Vynxcode's Telephone Number Validator
 
 ## 📖 Overview
 Created as part of my FreeCodeCamp JavaScript Algorithms and Data Structures Certification, this project is a fully responsive telephone number validator built using HTML, CSS, and JavaScript.
